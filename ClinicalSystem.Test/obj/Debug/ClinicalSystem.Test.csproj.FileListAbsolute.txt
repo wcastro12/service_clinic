@@ -1,0 +1,10 @@
+E:\Net\Prueba Tecnica\SistemaClinico\ClinicalSystem.Test\bin\Debug\ClinicalSystem.Test.exe.config
+E:\Net\Prueba Tecnica\SistemaClinico\ClinicalSystem.Test\bin\Debug\ClinicalSystem.Test.exe
+E:\Net\Prueba Tecnica\SistemaClinico\ClinicalSystem.Test\bin\Debug\ClinicalSystem.Test.pdb
+E:\Net\Prueba Tecnica\SistemaClinico\ClinicalSystem.Test\bin\Debug\Newtonsoft.Json.dll
+E:\Net\Prueba Tecnica\SistemaClinico\ClinicalSystem.Test\bin\Debug\Newtonsoft.Json.xml
+E:\Net\Prueba Tecnica\SistemaClinico\ClinicalSystem.Test\obj\Debug\ClinicalSystem.Test.csprojAssemblyReference.cache
+E:\Net\Prueba Tecnica\SistemaClinico\ClinicalSystem.Test\obj\Debug\ClinicalSystem.Test.csproj.CoreCompileInputs.cache
+E:\Net\Prueba Tecnica\SistemaClinico\ClinicalSystem.Test\obj\Debug\ClinicalSystem.Test.csproj.CopyComplete
+E:\Net\Prueba Tecnica\SistemaClinico\ClinicalSystem.Test\obj\Debug\ClinicalSystem.Test.exe
+E:\Net\Prueba Tecnica\SistemaClinico\ClinicalSystem.Test\obj\Debug\ClinicalSystem.Test.pdb
